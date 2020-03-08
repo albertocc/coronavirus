@@ -1,6 +1,6 @@
 <h1 align="center">Coronavirus CLI</h1>
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/albertocc/Give-Me-A-GIF/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/albertocc/coronavirus/blob/master/LICENSE)
 ![npm (scoped)](https://img.shields.io/npm/v/@albertocc/coronavirus-cli)
 ![npm](https://img.shields.io/npm/dt/@albertocc/coronavirus-cli)
 ![DON'T PANIC](https://img.shields.io/badge/-DON'T%20PANIC!-green)
