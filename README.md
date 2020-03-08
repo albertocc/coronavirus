@@ -1,7 +1,8 @@
 <h1 align="center">Coronavirus CLI</h1>
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/albertocc/Give-Me-A-GIF/blob/master/LICENSE)
-![npm (scoped)](https://img.shields.io/npm/v/albertocc/coronavirus-cli)
+![npm (scoped)](https://img.shields.io/npm/v/@albertocc/coronavirus-cli)
+![npm](https://img.shields.io/npm/dt/@albertocc/coronavirus-cli)
 ![DON'T PANIC](https://img.shields.io/badge/-DON'T%20PANIC!-green)
 
 ### Consulta el número de afectados por el COVID-19 en tiempo real :mask:  
@@ -32,4 +33,4 @@ coronavirus -p <pais>
 
 ### Licencia
 
-[MIT License](https://github.com/albertocc/Coronavirus/blob/master/LICENSE) - Copyrights (c) 2020 - [Alberto Cabeza Cardiel](http://alberto.cc)
+[MIT License](https://github.com/albertocc/coronavirus/blob/master/LICENSE) - Copyrights (c) 2020 - [Alberto Cabeza Cardiel](http://alberto.cc)
