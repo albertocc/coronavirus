@@ -1,0 +1,35 @@
+{
+  "name": "@albertocc/coronavirus-cli",
+  "version": "1.0.2",
+  "description": "COVID-19 CLI tracking tool",
+  "author": "albertocc",
+  "license": "MIT",
+  "homepage": "https://github.com/albertocc/coronavirus",
+  "keywords": [
+    "coronavirus",
+    "COVID-19",
+    "cli",
+    "terminal",
+    "shell",
+    "console",
+    "command-line"
+  ],
+  "main": "bin/index.js",
+  "bin": {
+    "coronavirus": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/albertocc/coronavirus.git"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "boxen": "^4.2.0",
+    "chalk": "^3.0.0",
+    "csvjson-csv2json": "^5.0.6",
+    "yargs": "^15.3.0"
+  }
+}
